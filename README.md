@@ -13,7 +13,7 @@ Using:
   1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi
   2. enter Bose-Hubbard model parameters in bash script run.sh
   3. execture "bash run.sh"
-  
-  Repo contains:
-    1. Source code
-    2. Jupyter notebook with two-component Bose-Hubbard Hamiltonian and calculated quantities in "model.ipynb"
+
+Repo contains:
+  1. Source code
+  2. Jupyter notebook with two-component Bose-Hubbard Hamiltonian and calculated quantities in "model.ipynb"
