@@ -10,7 +10,7 @@ The code provides:
   3. density-density correlations
 
 Using:
-  1. Install ITensor v3 library (C++ implementation)
+  1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi
   2. enter Bose-Hubbard model parameters in bash script run.sh
   3. execture "bash run.sh"
   
