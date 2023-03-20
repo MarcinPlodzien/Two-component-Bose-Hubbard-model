@@ -11,8 +11,8 @@ The code provides:
 
 Using:
   1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi
-  2. enter Bose-Hubbard model parameters in bash script run.sh
-  3. execture "bash run.sh"
+  2. Enter Bose-Hubbard model parameters in bash script run.sh (number of bosons, number of sites, interactions strenght, hopping, etc.)
+  3. Execture "bash run.sh"
 
 Repo contains:
   1. Source code
