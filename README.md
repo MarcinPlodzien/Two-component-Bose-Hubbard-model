@@ -1,6 +1,6 @@
 # Two-component Bose-Hubbard model in 1D
 
-This C++ code uses Matrix Product State ansatz to study ground state properties of a  two-component Bose-Hubbard model in 1D (DMRG/imaginary time TDVP using ITensor v3 C++ implementation). 
+This C++ code uses tensor networks Matrix Product State ansatz to study ground state properties of a  two-component Bose-Hubbard model in 1D (DMRG/imaginary time TDVP using ITensor v3 C++ implementation). 
 
 In particular, you can study of exotic phases such as Bose-Bose lattice droplets.
 
