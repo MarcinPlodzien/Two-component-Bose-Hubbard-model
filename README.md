@@ -1,6 +1,6 @@
 # Bose-Bose lattice droplets
 
-This C++ code uses Matrix Product State ansatz to study ground state properties of a  Bose-Hubbard model in 1D (DMRG/imaginary time TDVP using ITensor v3 C++ implementation). In particular, studies of Bose-Bose lattice droplets.
+This C++ code uses Matrix Product State ansatz to study ground state properties of a  two-component Bose-Hubbard model in 1D (DMRG/imaginary time TDVP using ITensor v3 C++ implementation). In particular, studies of Bose-Bose lattice droplets.
 
 The code provides (details in Jupyten notebook "model.ipynb")
 
