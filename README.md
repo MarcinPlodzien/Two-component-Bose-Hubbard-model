@@ -29,5 +29,5 @@ Citation:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/MarcinPlodzien/Bose-Bose-lattice-droplets}}
+  howpublished = {\url{https://github.com/MarcinPlodzien/Two-component-Bose-Hubbard-model}}
  }
