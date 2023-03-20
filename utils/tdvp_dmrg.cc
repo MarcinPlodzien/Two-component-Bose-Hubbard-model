@@ -122,7 +122,7 @@ MPS dmrg_sequence(Boson sites,
   double relative_diff_a = fabs(central_entropy_a - postdmrg_central_entropy_a)/central_entropy_a;
   double relative_diff_b = fabs(central_entropy_b - postdmrg_central_entropy_b)/central_entropy_b;
 
-  while((relative_diff_a > 0.01) || (relative_diff_b > 0.01)){
+  while((relative_diff_a > 1e-3) || (relative_diff_b > 1e-3)){
     int nswep = 4;
     auto sweeps = Sweeps(nswep);
     sweeps.maxdim() = MaxBondDim;
