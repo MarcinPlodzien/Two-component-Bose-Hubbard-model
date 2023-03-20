@@ -24,10 +24,10 @@ Repo contains:
 Citation:
 
 @misc{PlodzienSyrwid2023,
-  author = {Plodzien, M.; Syrwid, A.},
-  title = {Bose-Bose lattice droplets},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/MarcinPlodzien/Bose-Bose-lattice-droplets}},
+  author = {Plodzien, M.; Syrwid, A.},\\
+  title = {Bose-Bose lattice droplets},\\
+  year = {2023},\\
+  publisher = {GitHub},\\
+  journal = {GitHub repository},\\
+  howpublished = {\url{https://github.com/MarcinPlodzien/Bose-Bose-lattice-droplets}},\\
  }
