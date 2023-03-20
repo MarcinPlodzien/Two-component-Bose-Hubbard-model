@@ -20,3 +20,14 @@ Repo contains:
 
   1. Source code.
   2. Jupyter notebook with two-component Bose-Hubbard Hamiltonian and calculated quantities in "model.ipynb".
+
+Citation:
+
+@misc{PlodzienSyrwid2023,
+  author = {Plodzien, M.; Syrwid, A.},
+  title = {Bose-Bose lattice droplets},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/MarcinPlodzien/Bose-Bose-lattice-droplets}},
+ }
