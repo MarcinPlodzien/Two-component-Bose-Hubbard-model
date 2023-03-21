@@ -186,11 +186,11 @@ void save_correlations(Boson sites, MPS state,
   double N_b = 0;
   for(int i_site = 1; i_site <= L; i_site++){
     for(int j_site = 1; j_site <= L; j_site++){
-      if(j_site != L/2){
+       
         h_a = h_a + one_body_correlations_a[i_site-1][j_site-1];
         h_b = h_b + one_body_correlations_b[i_site-1][j_site-1];
         h_ab = h_ab + pair_correlations_ab[i_site-1][j_site-1];
-      }
+    
         f_SF_a = f_SF_a + one_body_correlations_a[i_site-1][j_site-1];
         f_SF_b = f_SF_b + one_body_correlations_b[i_site-1][j_site-1];
         if(i_site == j_site){
