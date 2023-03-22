@@ -25,11 +25,14 @@ Repo contains:
 
 Citation:
 
-@misc{PlodzienSyrwid2023,
-  author = {Plodzien, M.; Syrwid, A.},
-  title = {Bose-Bose lattice droplets},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/MarcinPlodzien/Two-component-Bose-Hubbard-model}}
- }
+
+@software{Plodzien_Bose-Bose-lattice-droplets_2023,
+author = {Plodzien, Marcin and Syrwid, Andrzej},
+doi = {10.5281/zenodo.1234},
+month = {3},
+title = {{Bose-Bose-lattice-droplets}},
+url = {https://github.com/MarcinPlodzien/Two-component-Bose-Hubbard-model},
+version = {1.0.0},
+year = {2023}
+}
+
