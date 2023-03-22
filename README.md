@@ -10,13 +10,14 @@ The code provides (details in Jupyten notebook "model.ipynb")
   1. The expectation value of the total Hamiltonian, and its separated parts in the ground state.
   2. Atom densiteis and one-body correlation matrix.
   3. Two-body correlation matrix for atomic pairs $a-b$.
-  3. Density-density correlations for atoms $a$ and $b$.
+  4. Density-density correlations for atoms $a$ and $b$.
 
 Using:
 
-  1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi.
-  2. Enter Bose-Hubbard model parameters in bash script run.sh (number of bosons, number of sites, interactions strenght, hopping, etc.).
-  3. Execture "bash run.sh".
+  1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi.\
+  2. Install TDVP library for ITensor (https://github.com/ITensor/TDVP)
+  4. Enter Bose-Hubbard model parameters in bash script run.sh (number of bosons, number of sites, interactions strenght, hopping, etc.).
+  5. Execture "bash run.sh".
 
 Repo contains:
 
