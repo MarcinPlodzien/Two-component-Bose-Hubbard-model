@@ -14,8 +14,8 @@ The code provides (details in Jupyten notebook "model.ipynb")
 
 Using:
 
-  1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi.\
-  2. Install TDVP library for ITensor (https://github.com/ITensor/TDVP)
+  1. Install ITensor v3 library (C++ implementation): https://itensor.org/docs.cgi
+  2. Install TDVP library for ITensor: https://github.com/ITensor/TDVP
   4. Enter Bose-Hubbard model parameters in bash script run.sh (number of bosons, number of sites, interactions strenght, hopping, etc.).
   5. Execture "bash run.sh".
 
